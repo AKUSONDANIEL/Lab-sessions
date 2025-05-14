@@ -1,0 +1,5 @@
+Using Nmap ( a Network scanning tool) to scan for IP addreses on the Local Host Network
+i will be performing a basic NMmap scan
+I scanned on my Host Machines and onthe Labs Online IP machine as well
+i scan the most common 1000 TCP ports on the specified IP address. TCP ports are like numbered doors on a computer where network services can communicate.
+i encounterd a parse error because i was using a parenthesis where i am not sopposed to but after erasing it, the error was removed
