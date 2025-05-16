@@ -1,0 +1,6 @@
+Afrter Installing Secure Socket Layer in my Virtual Machine then i made sure i went to the Home Directory to be sure.
+Then i used cat to display the contents of the File
+i hashed a string of text file with secret.txt
+thereafter i used cat to later display the content of the file that i hashed 
+Next is to hased the massage with SSL
+i intend to use AES-256-CBC encryption, which is an industry-standard method.
